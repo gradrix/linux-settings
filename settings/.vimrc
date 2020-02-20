@@ -1,0 +1,16 @@
+syntax on
+colorscheme candycode
+set mouse=
+set tabstop=4
+set softtabstop=0
+set expandtab
+set shiftwidth=2
+set smarttab
+set ai
+set incsearch
+set confirm
+set nu!
+set encoding=utf8
+set autoindent
+set t_Co=256
+set history=200
