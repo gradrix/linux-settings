@@ -5,6 +5,7 @@
 alias p='python3.7'
 alias sudp='sudo '
 alias temp='/opt/vc/bin/vcgencmd measure_temp'
+alias throttled='/opt/vc/bin/vcgencmd get_throttled'
 
 # If not running interactively, don't do anything
 case $- in
