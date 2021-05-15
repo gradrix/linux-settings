@@ -1,0 +1,1 @@
+sudo mount -t cifs -o "username=admin,password=x,vers=1.0"  //router/data /media/Router/
