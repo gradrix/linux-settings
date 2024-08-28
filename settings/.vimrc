@@ -1,5 +1,4 @@
 syntax on
-colorscheme candycode
 set mouse=
 set tabstop=4
 set softtabstop=0
